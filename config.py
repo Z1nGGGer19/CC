@@ -11,7 +11,7 @@ DB_DIR = BASE_DIR / "bd"    # Новая папка для БД
 DB_DIR.mkdir(exist_ok=True) # Создаем папку, если её нет
 DB_PATH = DB_DIR / "dorm_bot.db"
 
-BOT_TOKEN = "7717741384:AAG85HHOCjruuE7ULWuKsUi1t7ywo9OC_Sw"
+BOT_TOKEN = ""
 
 DORMS = {
     1: {
