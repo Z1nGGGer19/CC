@@ -1,30 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9764edaf-7d3c-45f7-a0a2-666e28376be3" name="Changes" comment="" />
+    <list default="true" id="9764edaf-7d3c-45f7-a0a2-666e28376be3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/add_temp_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/keyboards/admins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/admins.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/admins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/campus.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/campus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/dorm.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/dorm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/events.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/events.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/rules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/handlers/support.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/handlers/support.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/keyboards/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/keyboards/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/keyboards/campus.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/keyboards/campus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/keyboards/init.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/keyboards/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/keyboards/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/keyboards/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/utils/states.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/utils/states.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_db.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Z1nGGGer19&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Z1nGGGer19/CC.git&quot;,
+    &quot;accountId&quot;: &quot;106aec48-bb34-4ee2-a503-6266d84535b0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ur9WFr0IqfkGtqlYadbAqVG4zG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.add_users.executor": "Run",
+    "Python.admins.executor": "Run",
+    "Python.bot.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.eba.executor": "Run",
+    "Python.io.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pizda.executor": "Run",
+    "Python.test_db.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.editor"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pycharm\CC\bot" />
+      <recent name="D:\pycharm\CC" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="eba" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (tg_bot_test_task-main)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pizda" type="PythonConfigurationType" factoryName="Python">
+      <module name="CC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="lan" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.eba" />
+      <item itemvalue="Python.pizda" />
+    </list>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
